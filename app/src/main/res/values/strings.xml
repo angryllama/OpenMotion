@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OpenMotion</string>
+
+    <!-- Strings for Main Menu Page -->
+    <string name="mainManualControl">Manual Control</string>
+    <string name="mainTwoPointTL">Basic 2 Keyframe TL</string>
+    <string name="mainSettings">Settings</string>
+    <string name="mainBluetooth">Bluetooth Settings</string>
+    <string name="mainAbout">About</string>
+
+    <!-- Strings for Control Buttons -->
+    <string name="dirUp">Up</string>
+    <string name="dirDown">Down</string>
+    <string name="dirLeft">Left</string>
+    <string name="dirRight">Right</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
